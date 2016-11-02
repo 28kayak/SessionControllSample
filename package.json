@@ -2,13 +2,14 @@
   "name": "express_session",
   "version": "1.0.0",
   "description": "sample for session controll for express.js",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kaya",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2"
   }
 }
